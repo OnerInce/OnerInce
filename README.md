@@ -5,7 +5,7 @@
 </div>
 
 <p>I'm Öner, DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Ankara, Turkey</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197441.png" width="13"/> <b>Utrecht, Netherlands</b>. </p>
-<h3>Tools I'm familier with</h3>
+<h3>Tools I'm familiar with</h3>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
@@ -32,7 +32,11 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/PySport/kloppy"><b>Kloppy</b></a></td>
-      <td><h4>standardizing soccer tracking- and event data</h4></td>
+      <td><h4>Standardizing soccer tracking- and event data</h4></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/swar/nba_api"><b>nba_api</b></a></td>
+      <td><h4>An API Client Package to Access the APIs of NBA.com</h4></td>
     </tr>
   </tbody>
 </table>
