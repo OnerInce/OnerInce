@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/pabqDSlAbRMZsNCC2M/giphy.gif?cid=790b7611adfaf956f6562c7b16a3f49a92a2c8291644e87f&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
-<p>I'm Öner, DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Ankara, Turkey</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197441.png" width="13"/> <b>Utrecht, Netherlands</b>. </p>
+<p>I'm Öner, DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Turkey</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197441.png" width="13"/> <b>Netherlands</b>. </p>
 <h3>Tools I'm familiar with</h3>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -58,6 +58,15 @@
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
       <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
       <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OnerInce/terraform-nba_play_db"><b>NBA Play DB</b></a></td>
+      <td><b>A search engine for NBA play-by-play data with corresponding videos. You can use various filters and search keywords to find your favorite plays.</b></td>
+      <td><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
+      <img alt="Elasticsearch" src="https://img.shields.io/badge/Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/OnerInce/webpage-change-notifier"><b>Serverless Web Page Change Notifier</b></a></td>
