@@ -84,14 +84,6 @@
       <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
       <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/OnerInce/nfl-rest_api"><b>NFL Players and Prediction REST API</b></a></td>
-      <td><b>RESTful API implementation of Public NFL Data</b></td>
-      <td><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-      <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-      <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" /></td>
-    </tr>
   </tbody>
 </table>
 
